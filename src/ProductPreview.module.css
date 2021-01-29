@@ -10,7 +10,7 @@
     transform: translate(-50%,-50%);
 
     color: white;
-    font-size: 48px;
+    font-size: 24px;
 }
 
 .HeartBeatSection{
@@ -20,12 +20,12 @@
     transform: translate(-50%,-50%);
 
     color: white;
-    font-size: 48px;
+    font-size: 24px;
 }
 
 .HeartBeatSection>i{
     color: red;
-    margin-top: 35px;
+    margin-top: 15px;
     animation: beat 1s infinite;
 }
 .HeartBeatSection>p{
